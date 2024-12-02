@@ -6,5 +6,5 @@
   "devDependencies": {},
   "description": "",
 
-  "start":"node script.js"
+  "start":"npm run start"
 }
