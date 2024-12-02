@@ -6,5 +6,5 @@
   "devDependencies": {},
   "description": "",
 
-  "start":"node index.js"
+  "start":"node script.js"
 }
