@@ -4,5 +4,7 @@
   },
   "type": "module",
   "devDependencies": {},
-  "description": ""
+  "description": "",
+
+  "start":"node index.js"
 }
