@@ -5,6 +5,7 @@
   "type": "module",
   "devDependencies": {},
   "description": "",
-
-  "start":"npm run start"
+    "scripts": {
+      "start": "node script.js"
+    }
 }
